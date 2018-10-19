@@ -13,9 +13,8 @@ const Wrapper = styled.footer`
 
 const Footer = () => (
   <Wrapper>
-    Copyright &copy; 2018. All right reserved. Pictures by Unsplash.{' '}
-    <a href="https://github.com/LeKoArts/gatsby-starter-portfolio-emma">Emma Theme</a> {' by '}{' '}
-    <a href="https://www.lekoarts.de">LekoArts</a>.
+    Copyright &copy; 2018. All right reserved. {' '}
+    
   </Wrapper>
 );
 

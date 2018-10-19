@@ -87,12 +87,12 @@ const Navigation = () => (
   <Wrapper>
     <Nav>
       <Link
-        to="/about"
+        to="/über"
         activeClassName={css`
           ${active};
         `}
       >
-        About
+        über
       </Link>
       <Link
         to="/kontakt"
@@ -100,7 +100,7 @@ const Navigation = () => (
           ${active};
         `}
       >
-        Kontakt
+        kontakt
       </Link>
     </Nav>
     <Name>
