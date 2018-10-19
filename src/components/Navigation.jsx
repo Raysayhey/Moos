@@ -95,12 +95,12 @@ const Navigation = () => (
         About
       </Link>
       <Link
-        to="/contact"
+        to="/kontakt"
         activeClassName={css`
           ${active};
         `}
       >
-        Contact
+        Kontakt
       </Link>
     </Nav>
     <Name>

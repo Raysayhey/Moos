@@ -19,4 +19,4 @@ module.exports = {
   headerFontFamily: 'Merriweather',
   bodyFontFamily: 'Roboto',
   baseFontSize: '16px',
-};
+}
