@@ -1,7 +1,7 @@
 ---
 client: "Eigenproduktion"
-title: "Titel !"
-cover: "./kakt_hang_koko.jpg"
+title: "Pflanzenzucht"
+cover: "./sukkubus.jpg"
 date: "2017-10-28"
 service: "Theme"
 ---
