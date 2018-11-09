@@ -4,7 +4,7 @@ import styled from 'react-emotion';
 
 const Wrapper = styled.div`
   background: ${props => props.theme.brand.secondary};
-  color: #fff;
+  color: #222;  //untersiten titel farbe
   margin-bottom: 6rem;
   padding: 6rem ${props => props.theme.spacer.horizontal};
   text-align: center;

@@ -10,6 +10,7 @@ const Wrapper = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   width: 100%;
+  
 `;
 
 const Item = styled.div`
@@ -18,6 +19,7 @@ const Item = styled.div`
     content: '';
     display: block;
     padding-top: 100%;
+    
   }
 `;
 

@@ -1,8 +1,8 @@
 ---
-client: "SmartTriangle"
-title: "SmartTriangle - Make Triangles smart!"
-cover: "./smartTriangle.jpg"
-date: "2017-10-27"
+client: "Selbst"
+title: "Hasen artig"
+cover: "./buny_pflanz.jpg"
+date: "2018-11-27"
 service: "Art Direction"
 ---
 # Description

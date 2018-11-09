@@ -6,7 +6,7 @@ module.exports = {
   siteLanguage: 'de', // Language Tag on <html> element
   siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
   siteDescription: 'Minimalistic bright portfolio with full-width grid and large images',
-  author: 'LekoArts', // Author for schemaORGJSONLD
+  author: 'Moosartig', // Author for schemaORGJSONLD
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@emma', // Twitter Username
   ogSiteName: 'emma', // Facebook Site Name
@@ -14,7 +14,7 @@ module.exports = {
   googleAnalyticsID: 'UA-12345689-1',
   // Manifest and Progress color
   themeColor: '#3498DB',
-  backgroundColor: '#2b2e3c',
+  backgroundColor: '#00000',
   // Settings for typography.jsx
   headerFontFamily: 'Merriweather',
   bodyFontFamily: 'Roboto',

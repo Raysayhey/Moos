@@ -15,7 +15,7 @@ const Kontakt = () => (
 </p>
 
 <p>
-        email adresse   info@moosartig.ch  warscheinlich
+        email adresse  <p> info@moosartig.ch </p> warscheinlich
       </p>
   
           
