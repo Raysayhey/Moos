@@ -1,5 +1,5 @@
 ---
-client: "LekoArts"
+client: "Eigenproduktion"
 title: "LekoArts - Your theme creator!"
 cover: "./kakt_hang_koko.jpg"
 date: "2017-10-28"
